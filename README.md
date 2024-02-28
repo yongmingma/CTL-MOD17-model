@@ -5,7 +5,7 @@ The MOD17 product is probably the most widely used GPP product at present, but m
 Results
 =
 The calibration model effectively improves the estimation accuracy of GPP and solves the accuracy deviation of MODIS GPP.
-![ ](https://github.com/yongmingma/CTL-MOD17-model/upload/main/images/Figure1.jpg)
+![ ](https://github.com/yongmingma/CTL-MOD17-model/blob/main/images/Figure1.jpg)
 Figure 1. Spatial distribution of the differences in the annual summed GPP correction for 2010. (a) The graphs show the differences in longitude from the MOD17, CTL-MOD17, and TL-LUE models. (b) Graph for latitude. (c) △GPP means GPP of the CTL-MOD17 model minus the corresponding value of the MOD17 model; △RMSE refers to the RMSE of the estimated results of the CTL-MOD17 model and the EC GPP of the site minus the corresponding value of MOD17, so the negative points with larger values mean better correction results.
 
 ![ ](https://github.com/yongmingma/CTL-MOD17-model/upload/main/images/Figure2.jpg)
